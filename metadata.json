@@ -1,0 +1,5 @@
+{
+  "name": "Proyecto Vicuña - Plataforma Operativa",
+  "description": "Plataforma informativa centralizada para trabajadores del Proyecto Vicuña, con manuales, clima, servicios de campamento y búsqueda inteligente con IA.",
+  "requestFramePermissions": ["geolocation"]
+}
